@@ -1,4 +1,5 @@
 // gta6-meme-x-01 entry (Node 22, standard library only).
+// Post: https://x.com/sesei89vun/status/2124357846846582909
 // The entry is the X post itself; this program only hands its address to the gate:
 // it copies POST.json from the repository root into /output.
 // Outside the grader's container, MAKEFUN_BOT_DIR / MAKEFUN_OUTPUT_DIR stand in for /bot and /output.
